@@ -11,3 +11,5 @@ Se agregaron datos adicionales:
 Color rojo
 Casa apto
 Carro nissan
+
+Carro Nissan color rojo
