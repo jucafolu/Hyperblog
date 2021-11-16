@@ -5,3 +5,9 @@ juan caros forero nacio en bogota un 6 de septiembre de 1985. Tengo 36 años.
 Esto es mas raro de lo que parece. 
 
 Hoy se va a iniciar el proceso de learning de git 
+
+Se agregaron datos adicionales:
+
+Color rojo
+Casa apto
+Carro nissan
